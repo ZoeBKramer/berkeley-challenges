@@ -14,3 +14,5 @@
 I wrote a method to determine a number's Collatz sequence as well as created a method to find the number between 1 and 1,000,000 with the longest Collatz sequence.
 
 [**Tree Traversal**](https://github.com/ZoeBKramer/berkeley-challenges/blob/master/lib/treetraversal.rb) - In this challenge, I implemented both a DFS [(depth-first search)](https://www.youtube.com/watch?v=iaBEKo5sM7w) and a BFS [(breadth-first search)](https://www.youtube.com/watch?v=QRq6p9s8NVg) method that finds a node with a given payload. 
+
+[**Binary Tree Sort**](https://github.com/ZoeBKramer/berkeley-challenges/blob/master/lib/treesort.rb) - I implemented a method that creates a binary tree. I then use that data structure to construct a method using infix depth-first search to ouput a sorted array. 
